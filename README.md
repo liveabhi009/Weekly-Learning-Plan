@@ -39,6 +39,8 @@ The goal of this project is to showcase **HTML proficiency**, code readability, 
 
 This emphasizes a solid foundation before moving on to advanced technologies.
 
+[Live](https://liveabhi009.github.io/Weekly-Learning-Plan/)
+
 ![image](img.png)
 ---
 
